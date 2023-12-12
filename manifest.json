@@ -1,0 +1,11 @@
+{
+    "name": "Diversity",
+    "version_number": "0.1.0",
+    "website_url": "",
+    "description": "Just a simple mod adding diversed stuff.",
+    "dependencies": [
+		"BepInEx-BepInExPack-5.4.2100",
+        "Evaisa-HookGenPatcher-0.0.4",
+        "Evaisa-LethalLib-0.1.3"
+    ]
+}
